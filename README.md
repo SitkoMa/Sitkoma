@@ -17,29 +17,52 @@
   </a>
 </div>
 
+<div id="counter" align="center">
+<a href="https://youtu.be/dQw4w9WgXcQ?t=43">
+    <img src="https://img.shields.io/badge/Secret button-red?style=flat&logo=Wikiquote&logoColor=white" alt="WhatsApp"/>
+  </a>
+</div>
+
+----------------
+<p>
+    <img src="https://media3.giphy.com/media/jsYfLXpibzkdr5sjZ8/giphy.gif?cid=ecf05e47a6whsdfeohn3rmhpyuzte2mcmjpihrvzgvpk5bdl&rid=giphy.gif&ct=g" align="right" width="410" height="330" />
+  
+   Я начинающий Data Science/ ML Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia, Saint-Petesburg.  
+
+- :mailbox:How to reach me:[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/m.vinogradovaaa/)</a>.
+</p>
+
+- :iphone: My socials: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/m.vinogradovaaa/),  [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=black)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqVxJrDFsBSHPXpKnHNccQQmjhXHsPlXvkTmlJBzTcFpMQBhLrMSNjXPHkJTqNfcNhxsWg)
+    
+-----------
+
+### :hammer_and_wrench: Languages and Tools:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" title="SQLAlchemy" alt="SQLAlchemy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="GitLab" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" width="40" height="40"/>&nbsp;
+</div>
+
+--------------------------------
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently working on my study.</li>
+<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Sitkoma">Github</a>.</li>
+<li>📙 Check out my .... </a>.</li>
+<li>🎉 Fun Fact: I was a deputy </li>
+
 ###
-
-<h3 align="left">👩‍💻  Обо мне</h3>
-
-###
-
-<p align="left">Я начинающий ML Engineer, активно развивающий свои навыки в области машинного обучения. В данный момент я обучаюсь на расширенном курсе по Data Science от Яндекс Практикума, где получаю глубокие знания в анализе данных, алгоритмах машинного обучения и работе с различными инструментами и библиотеками. Также, прохожу курс Start ML от Карпова, что позволяет мне расширить свои горизонты и освоить новые подходы в этой динамичной сфере.<br>- 📚 Прохожу курсы по Data Science в Яндекс Практикум!<br>- ⚡ Являюсь студентом на курсе START ML Карпова.</p>
-
-###
-
+----------------
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-<h3 align="left">🛠 Инструменты:</h3>
-
-
-### 
-
-<div align="left">
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-</div>
